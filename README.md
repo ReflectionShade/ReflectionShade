@@ -61,11 +61,19 @@ STATUS="Online"
 
 ---
 
+### `~/trophies`
+
 <div align="center">
 
-```
-> fuck society
-```
+![Trophies](https://github-profile-trophy.vercel.app/?username=ReflectionShade&theme=matrix&no-frame=true&row=1&column=6)
+
+</div>
+
+---
+
+<div align="center">
+
+# 𝙁𝙐𝘾𝙆 𝙎𝙊𝘾𝙄𝙀𝙏𝙔
 
 ![Views](https://komarev.com/ghpvc/?username=ReflectionShade&color=00ff41&style=flat-square&label=VISITORS)
 
