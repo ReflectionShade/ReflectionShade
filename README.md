@@ -43,9 +43,9 @@ STATUS="Online"
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=ReflectionShade&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00FF41&text_color=00FF41&icon_color=00ADD8)
+![Stats](https://github-readme-stats-five-black-74.vercel.app/api?username=ReflectionShade&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00FF41&text_color=00FF41&icon_color=00ADD8&count_private=true)
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ReflectionShade&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00FF41&text_color=00FF41)
+![Languages](https://github-readme-stats-five-black-74.vercel.app/api/top-langs/?username=ReflectionShade&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00FF41&text_color=00FF41&count_private=true)
 
 </div>
 
