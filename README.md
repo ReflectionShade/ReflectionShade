@@ -61,24 +61,10 @@ STATUS="Online"
 
 ---
 
-### `~/trophies`
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=ReflectionShade&theme=matrix&no-frame=true&row=1&column=6)
-
-</div>
-
----
-
 <div align="center">
 
 ```
-> The world is a dangerous place, Elliot,
-> not because of those who do evil,
-> but because of those who look on and do nothing.
->
-> — Mr. Robot
+> fuck society
 ```
 
 ![Views](https://komarev.com/ghpvc/?username=ReflectionShade&color=00ff41&style=flat-square&label=VISITORS)
