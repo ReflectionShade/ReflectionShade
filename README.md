@@ -34,7 +34,7 @@ STATUS="Online"
 ![Docker](https://img.shields.io/badge/Docker-00ADD8?style=for-the-badge&logo=docker&logoColor=black)
 ![Linux](https://img.shields.io/badge/Linux-00FF41?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-00ADD8?style=for-the-badge&logo=git&logoColor=black)
-![Apache Kafka](https://img.shields.io/badge/-emerald?logo=apachekafka&logoColor=black)
+![Apache Kafka](https://img.shields.io/badge/Kafka-emerald?logo=apachekafka&logoColor=black&style=for-the-badge)
 
 </div>
 
