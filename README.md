@@ -6,7 +6,7 @@
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=DC143C&background=00000000&center=true&vCenter=true&width=600&lines=Hello%2C+friend.;Are+you+watching+closely%3F;I+write+code.+Systems+listen.;root%40ReflectionShade%3A~%23)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=DC143C&background=00000000&center=true&vCenter=true&width=600&lines=Hello%2C+friend.;root%40ReflectionShade%3A~%23)
 
 </div>
 
