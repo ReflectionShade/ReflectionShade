@@ -34,6 +34,7 @@ STATUS="Online"
 ![Docker](https://img.shields.io/badge/Docker-00ADD8?style=for-the-badge&logo=docker&logoColor=black)
 ![Linux](https://img.shields.io/badge/Linux-00FF41?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-00ADD8?style=for-the-badge&logo=git&logoColor=black)
+![Apache Kafka](https://img.shields.io/badge/-emerald?logo=apachekafka&logoColor=black)
 
 </div>
 
@@ -46,26 +47,6 @@ STATUS="Online"
 ![Stats](https://github-readme-stats-five-black-74.vercel.app/api?username=ReflectionShade&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00FF41&text_color=00FF41&icon_color=00ADD8&count_private=true)
 
 ![Languages](https://github-readme-stats-five-black-74.vercel.app/api/top-langs/?username=ReflectionShade&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00FF41&text_color=00FF41&count_private=true)
-
-</div>
-
----
-
-### `~/streak`
-
-<div align="center">
-
-![Streak](https://streak-stats.demolab.com?user=ReflectionShade&theme=dark&hide_border=true&background=0d0d0d&ring=00FF41&fire=00ADD8&currStreakLabel=00FF41&sideLabels=00FF41&currStreakNum=ffffff&sideNums=ffffff&dates=555555)
-
-</div>
-
----
-
-### `~/trophies`
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=ReflectionShade&theme=matrix&no-frame=true&row=1&column=6)
 
 </div>
 
